@@ -1,6 +1,6 @@
 ![logo](https://github.com/zanmer/NGS-data/blob/master/novogene-logo.png)
 
-# NGS results
+# NGS Demo results
 
 ## Introduction
 Here we show the analysis results for most kinds of NGS products in Novogene. In each zip file, there are demo report, usually in html format, and demo release data such as fastq, bam, vcf, gene expression files and so on. File sizes of all the zip files are less than 200Mb. Any researchers, clinicians or collaborators who are interested in NGS can download freely. And we appriciate that you could give us any advice or suggestions.
