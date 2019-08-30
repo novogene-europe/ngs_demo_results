@@ -3,6 +3,10 @@
 # NGS results
 
 ## Introduction
+Here we show the analysis results for most kinds of NGS products in Novogene. In each zip file, there are demo report, usually in html format, and demo release data such as fastq, bam, vcf, gene expression files and so on. File sizes of all the zip files are less than 200Mb. Any researchers, clinicians or collaborators who are interested in NGS can download freely. And we appriciate that you could give us any advice or suggestions.
+
+For detail information, please visit our [websit](https://en.novogene.com).
+
 
 Product | Release tree | Result tree | Release Demo link
 ---|:--:|:--:|:--
@@ -17,4 +21,6 @@ TR04_denovo_transcriptome | [Release.tree.txt](https://github.com/novogene-europ
 TR05_WGBS | [Release.tree.txt](https://github.com/novogene-europe/ngs_demo_results/blob/master/TR05_WGBS/Release.tree.txt) | [Result.tree.txt](https://github.com/novogene-europe/ngs_demo_results/blob/master/TR05_WGBS/Result.tree.txt) | [TR05_WGBS_Release_demo.zip](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190829165544/TR05_WGBS_Release_demo.zip)
 
 
+## About Novogene ([EN](https://en.novogene.com) | [CN](http://www.novogene.com))
 
+Novogene is a leading provider of genomic services and solutions with cutting edge NGS and bioinformatics expertise and **the largest sequencing capacity** in the world. Novogene utilizes scientific excellence, a commitment to customer service and unsurpassed data quality to help our clients realize their research goals. The company has become a world-leader in NGS services, with 1,800 employees and multiple locations across the globe. Novogene’s depth of experience has resulted in the ownership of 49 NGS-related patents, as well as the publishing of **over 1850 customer research papers**, often in well-respected publications such as *Nature* and *Science*.
