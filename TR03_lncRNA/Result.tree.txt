@@ -1,0 +1,33 @@
+Result 
+	├── 1.QC:Quality Control 
+	├── 2.Mapping:Mapping To Reference Genome 
+	├── 3.LncRNAIdentification:LncRNA Identification 
+	│   ├── LncRNA_Filter 
+	│   └── LncRNA_Signatures 
+	├── 4.NovelGene:Novel Gene Prediction 
+	├── 5.Quantification:Quantification Analysis 
+	│   ├── Correlation 
+	│   ├── Distribution 
+	│   ├── Expression 
+	│   └── coExpression_venn 
+	├── 6.LncRNATargets:LncRNA Target Prediction 
+	├── 7.DiffExprAnalysis:Differential Expression Analysis 
+	│   ├── lncRNA 
+	│   │   ├── Cluster 
+	│   │   ├── DEGlist 
+	│   │   └── Volcano 
+	│   └── transcript 
+	│       ├── Cluster 
+	│       ├── DEGlist 
+	│       └── Volcano 
+	├── 8.Enrichment:Enrichment Analysis 
+	│   ├── lncRNA_Targets 
+	│   │   ├── GO 
+	│   │   └── KEGG 
+	│   └── transcript 
+	│       ├── GO 
+	│       └── KEGG 
+	├── 9.AS:Alternative Splicing Analysis 
+	└── 10.Mutation 
+	    ├── InDel 
+	    └── SNP 

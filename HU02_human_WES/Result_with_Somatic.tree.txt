@@ -1,0 +1,36 @@
+Variant_and_Annotation
+|-- Mutation
+|   |-- INDEL
+|   |   |-- Annotation
+|   |   |   |-- Germline_N407.GATK.indel.annovar.hg19_multianno.xls
+|   |   |   `-- Tumour_N407.GATK.indel.annovar.hg19_multianno.xls
+|   |   |-- indel_features.xls
+|   |   |-- indel_function.stat.xls
+|   |   `-- Vcf
+|   |       |-- Germline_N407.GATK.indel.vcf
+|   |       `-- Tumour_N407.GATK.indel.vcf
+|   |-- SNP
+|   |   |-- Annotation
+|   |   |   |-- Germline_N407.GATK.snp.annovar.hg19_multianno.xls
+|   |   |   `-- Tumour_N407.GATK.snp.annovar.hg19_multianno.xls
+|   |   |-- snp_features.xls
+|   |   |-- snp_function.stat.xls
+|   |   `-- Vcf
+|   |       |-- Germline_N407.GATK.snp.vcf
+|   |       `-- Tumour_N407.GATK.snp.vcf
+|   `-- SNP_INDEL.Readme.pdf
+`-- Somatic
+    |-- Somatic_INDEL
+    |   |-- Annotation
+    |   |   `-- Tumour_N407.Strelka.somatic.indel.annovar.hg19_multianno.xls
+    |   |-- somatic_indel.function.stat.xls
+    |   |-- Somatic_INDEL.Readme.pdf
+    |   `-- Vcf
+    |       `-- Tumour_N407.Strelka.somatic.indel.vcf
+    `-- Somatic_SNV
+        |-- Annotation
+        |   `-- Tumour_N407.muTect.somatic.snv.annovar.hg19_multianno.xls
+        |-- somatic_snv.function.stat.xls
+        |-- Somatic_SNV.Readme.pdf
+        `-- Vcf
+            `-- Tumour_N407.muTect.somatic.snv.vcf

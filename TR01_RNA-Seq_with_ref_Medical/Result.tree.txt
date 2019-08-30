@@ -1,0 +1,23 @@
+Result 
+	├── 1.QC:Quality Control 
+	├── 2.Mapping:Mapping To Reference Genome 
+	├── 3.Quantification:Quantification Analysis 
+	│   ├── Correlation 
+	│   ├── Distribution 
+	│   └── Expression 
+	├── 4.DiffExprAnalysis:Differential Expression Analysis 
+	│   ├── Cluster 
+	│   │   ├── hcluster 
+	│   │   ├── kmeans 
+	│   │   └── som 
+	│   ├── DEGlist 
+	│   └── Volcano 
+	├── 5.Enrichment:Enrichment Analysis 
+	│   ├── GO:GO enrichment analysis of DEGs 
+	│   ├── KEGG:KEGG pathway enrichment analysis of DEGs
+	│   └── REACTOME:Reactome enrichment analysis of DEGs
+	├── 6.AS:Alternative Splicing Analysis 
+	├── 7.Mutation:SNP/InDel analysis result 
+	│   ├── InDel 
+	│   └── SNP 
+	└── 8.FusionGene:FusionGene Analysis 

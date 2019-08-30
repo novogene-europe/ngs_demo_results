@@ -1,0 +1,23 @@
+TR02_RNA-Seq_with_ref_nonMedical_Release_demo/
+	├── RNA-Seq_with_ref_nonMedical_demo_report.tar.gz 
+	├── Result.tar.gz 
+	├── MD5.txt 
+	├── IGV_data 
+	│   ├── Bam 
+	│   │   ├── Ctr1.bam 
+	│   │   ├── Ctr1.bam.bai 
+	│   │   ├── Ctr2.bam 
+	│   │   ├── Ctr2.bam.bai 
+	│   │   └── MD5.txt 
+	│   ├── ref.dna.fa.gz 
+	│   └── ref.exon.gtf.gz 
+	├── Rawdata 
+	│   ├── Ctr1 
+	│   │   ├── Ctr1_1.fq.gz 
+	│   │   ├── Ctr1_2.fq.gz 
+	│   │   └── MD5.txt 
+	│   └── TPa1 
+	│       ├── MD5.txt 
+	│       ├── TPa1_1.fq.gz 
+	│       └── TPa1_2.fq.gz 
+	└── README.pdf 

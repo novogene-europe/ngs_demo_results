@@ -1,0 +1,23 @@
+HU02_human_WES_Release_demo
+|-- AnalysisReport_Demo.zip
+|-- Bam
+|   |-- Germline_N407.final.bam
+|   |-- Germline_N407.final.bam.bai
+|   |-- Mapping_Readme.pdf
+|   |-- MD5.txt
+|   |-- SAMv1.pdf
+|   |-- Tumour_N407.final.bam
+|   `-- Tumour_N407.final.bam.bai
+|-- MD5.txt
+|-- RawData
+|   |-- Germline_N407
+|   |   |-- Germline_N407_BKDN190589216-1A_HMHTJDSXX_L3_1.fq.gz
+|   |   |-- Germline_N407_BKDN190589216-1A_HMHTJDSXX_L3_2.fq.gz
+|   |   `-- MD5.txt
+|   |-- Rawdata_Readme.pdf
+|   `-- Tumour_N407
+|       |-- MD5.txt
+|       |-- Tumour_N407_BKDN190589215-1A_HMKCYDSXX_L2_1.fq.gz
+|       `-- Tumour_N407_BKDN190589215-1A_HMKCYDSXX_L2_2.fq.gz
+|-- README.txt
+`-- Variant_and_Annotation.zip

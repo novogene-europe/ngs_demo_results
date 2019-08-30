@@ -1,0 +1,23 @@
+TR01_RNA-Seq_with_ref_Medical_Release_demo/
+	├── RNA-Seq_with_ref_Medical_demo_Report.tar.gz 
+	├── Result.tar.gz 
+	├── MD5.txt 
+	├── IGV_data 
+	│   ├── Bam 
+	│   │   ├── MD5.txt 
+	│   │   ├── MV4_11.bam 
+	│   │   ├── MV4_11.bam.bai 
+	│   │   ├── P30.bam 
+	│   │   └── P30.bam.bai 
+	│   ├── ref.dna.fa.gz 
+	│   └── ref.exon.gtf.gz 
+	├── Rawdata 
+	│   ├── MV4_11 
+	│   │   ├── MD5.txt 
+	│   │   ├── MV4_11_1.fq.gz 
+	│   │   └── MV4_11_2.fq.gz 
+	│   └── P30 
+	│       ├── MD5.txt 
+	│       ├── P30_1.fq.gz 
+	│       └── P30_2.fq.gz 
+	└── README.pdf 

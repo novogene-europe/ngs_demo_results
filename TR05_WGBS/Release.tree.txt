@@ -1,0 +1,13 @@
+TR05_WGBS_Release_demo/
+├── bigWig
+│   ├── VAT_Cax1_1.bw
+│   └── VAT_RT1_1.bw
+├── CXXXXXXXXXXXXXX_WGBS_demo_report.zip
+├── CXXXXXXXXXXXXXX_WGBS_demo_results.zip
+├── MD5.txt
+├── Rawdata
+│   ├── VAT_Cax1_1.example.fq.gz
+│   ├── VAT_Cax1_2.example.fq.gz
+│   ├── VAT_RT1_1.example.fq.gz
+│   └── VAT_RT1_2.example.fq.gz
+└── README.txt

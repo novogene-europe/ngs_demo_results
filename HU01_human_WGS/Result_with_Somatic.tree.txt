@@ -1,0 +1,69 @@
+Variant_and_Annotation
+|-- Mutation
+|   |-- CNV
+|   |   |-- Annotation
+|   |   |   |-- G_16459.freec.hg38_multianno.xls
+|   |   |   `-- T_16459.freec.hg38_multianno.xls
+|   |   |-- Circos
+|   |   |   |-- G_16459.png
+|   |   |   |-- G_16459.svg
+|   |   |   |-- T_16459.png
+|   |   |   `-- T_16459.svg
+|   |   |-- CNV.Readme.pdf
+|   |   `-- Gff
+|   |       |-- G_16459.final.bam_CNVs.final.gff
+|   |       `-- T_16459.final.bam_CNVs.final.gff
+|   |-- INDEL
+|   |   |-- Annotation
+|   |   |   |-- G_16459.GATK.indel.annovar.hg38_multianno.xls
+|   |   |   `-- T_16459.GATK.indel.annovar.hg38_multianno.xls
+|   |   |-- indel_features.xls
+|   |   |-- indel_function.stat.xls
+|   |   `-- Vcf
+|   |       |-- G_16459.GATK.indel.vcf
+|   |       `-- T_16459.GATK.indel.vcf
+|   |-- SNP
+|   |   |-- Annotation
+|   |   |   |-- G_16459.GATK.snp.annovar.hg38_multianno.xls
+|   |   |   `-- T_16459.GATK.snp.annovar.hg38_multianno.xls
+|   |   |-- snp_features.xls
+|   |   |-- snp_function.stat.xls
+|   |   `-- Vcf
+|   |       |-- G_16459.GATK.snp.vcf
+|   |       `-- T_16459.GATK.snp.vcf
+|   |-- SNP_INDEL.Readme.pdf
+|   `-- SV
+|       |-- Annotation
+|       |   |-- G_16459.delly.hg38_multianno.xls
+|       |   `-- T_16459.delly.hg38_multianno.xls
+|       |-- Gff
+|       |   |-- G_16459.delly.sv.gff
+|       |   `-- T_16459.delly.sv.gff
+|       `-- SV.Readme.pdf
+`-- Somatic
+    |-- Somatic_CNV
+    |   |-- Annotation
+    |   |   `-- T_16459.freec.hg38_multianno.xls
+    |   |-- Gff
+    |   |   `-- T_16459.final.bam_CNVs.final.gff
+    |   `-- Somatic_CNV.Readme.pdf
+    |-- Somatic_INDEL
+    |   |-- Annotation
+    |   |   `-- T_16459.strelka_muTect.somatic.indel.annovar.hg38_multianno.xls
+    |   |-- somatic_indel.function.stat.xls
+    |   |-- Somatic_INDEL.Readme.pdf
+    |   `-- Vcf
+    |       `-- T_16459.strelka_muTect.somatic.snv.vcf
+    |-- Somatic_SNV
+    |   |-- Annotation
+    |   |   `-- T_16459.strelka_muTect.somatic.snv.annovar.hg38_multianno.xls
+    |   |-- somatic_snv.function.stat.xls
+    |   |-- Somatic_SNV.Readme.pdf
+    |   `-- Vcf
+    |       `-- T_16459.strelka_muTect.somatic.snv.vcf
+    `-- Somatic_SV
+        |-- Annotation
+        |   `-- T_16459.delly.hg38_multianno.xls
+        |-- Gff
+        |   `-- T_16459.delly.somatic.sv.gff
+        `-- Somatic_SV.Readme.pdf

@@ -1,0 +1,10 @@
+TR04_denovo_transcriptome_Release_demo/
+├── CXXXXXXXXXXXXXX_analysis_Report.zip
+├── CXXXXXXXXXXXXXX_analysis_Results.zip
+├── MD5.txt
+├── Rawdata
+│   ├── Benfo1_1.example.fq.gz
+│   ├── Benfo1_2.example.fq.gz
+│   ├── Control1_1.example.fq.gz
+│   └── Control1_2.example.fq.gz
+└── README.pdf

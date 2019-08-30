@@ -1,0 +1,23 @@
+HU01_human_WGS_Release_demo
+|-- AnalysisReport_Demo.zip
+|-- Bam
+|   |-- G_16459.final.bam
+|   |-- G_16459.final.bam.bai
+|   |-- Mapping_Readme.pdf
+|   |-- MD5.txt
+|   |-- SAMv1.pdf
+|   |-- T_16459.final.bam
+|   `-- T_16459.final.bam.bai
+|-- MD5.txt
+|-- RawData
+|   |-- G_16459
+|   |   |-- G_16459_BKDN190590088-1A_HMK5MDSXX_L1_1.example.fq.gz
+|   |   |-- G_16459_BKDN190590088-1A_HMK5MDSXX_L1_2.example.fq.gz
+|   |   `-- MD5.txt
+|   |-- Rawdata_Readme.pdf
+|   `-- T_16459
+|       |-- MD5.txt
+|       |-- T_16459_BKDN190590096-1A_HM25VDSXX_L1_1.example.fq.gz
+|       `-- T_16459_BKDN190590096-1A_HM25VDSXX_L1_2.example.fq.gz
+|-- README.txt
+`-- Variant_and_Annotation.zip

@@ -1,0 +1,26 @@
+CXXXXXXXXXXXXXX_analysis_Results 
+	├── 1.QC:Data quality control 
+	├── 2.Assembly:Transcriptome reconstruction 
+	│   ├── AssembledTranscriptome:The sequencing data of assembled transcriptome 
+	│   └── AssemblyINFO:Reconstruction related statistic information 
+	├── 3.Annotation 
+	│   ├── GOclassification:GO classification result 
+	│   ├── GeneFunctionalAnnotation:Gene functional annotation 
+	│   ├── KEGGclassification:KEGG classification result 
+	│   └── KOGclassification:KOG classification result 
+	├── 4.Quantification:Gene expression analysis 
+	│   ├── Correlation:Correlation among groups 
+	│   ├── Distribution:Gene expression picture 
+	│   ├── Expression:Gene expression tables 
+	│   └── coExpression_venn:The venn diagram of gene expression 
+	├── 5.DiffExprAnalysis:Gene expression difference analysis 
+	│   ├── Cluster:Clustering analysis of differentially expressed genes 
+	│   ├── DEGlist:Comparison between gene expression level 
+	│   ├── Venn:The venn diagram of gene expression difference 
+	│   └── Volcano:Filtering the different expression gene(volcano plot) 
+	├── 6.Enrichment 
+	│   ├── GO:GO enrichment analysis of DEGs 
+	│   └── KEGG:KEGG pathway enrichment analysis of DEGs 
+	├── 7.CDSprediction:CDS prediction result 
+	├── 8.SSRdetection:SSR, Simple sequence repeat analysis 
+	└── 9.Mutation:SNP/InDel analysis result 

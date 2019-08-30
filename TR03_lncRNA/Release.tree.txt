@@ -1,0 +1,23 @@
+TR03_lncRNA_Release_demo/
+	├── lncRNA_demo_report.tar.gz 
+	├── Result.tar.gz 
+	├── MD5.txt 
+	├── IGV_data 
+	│   ├── Bam 
+	│   │   ├── D23_1.bam 
+	│   │   ├── D23_1.bam.bai 
+	│   │   ├── MD5.txt 
+	│   │   ├── W1118_1.bam 
+	│   │   └── W1118_1.bam.bai 
+	│   ├── Drosophila_melanogaster_BDGP6.dna.fa.gz 
+	│   └── Drosophila_melanogaster_BDGP6.exon.gtf.gz 
+	├── Rawdata 
+	│   ├── D23_1 
+	│   │   ├── D23_1_1.fq.gz 
+	│   │   ├── D23_1_2.fq.gz 
+	│   │   └── MD5.txt 
+	│   └── W1118_1 
+	│       ├── MD5.txt 
+	│       ├── W1118_1_1.fq.gz 
+	│       └── W1118_1_2.fq.gz 
+	└── README.pdf 

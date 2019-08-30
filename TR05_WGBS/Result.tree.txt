@@ -1,0 +1,60 @@
+CXXXXXXXXXXXXXX_WGBS_demo_results 
+	├── 1.QualityControl 
+	│   ├── 1.1.Rawdata 
+	│   ├── 1.2.DataTable 
+	│   └── 1.3.Cleandata 
+	├── 2.Mapping 
+	│   ├── 2.1.MapStat 
+	│   ├── 2.2.Cov_Dep 
+	│   │   ├── 2.2.1.Genome 
+	│   │   └── 2.2.2.Cytosines 
+	│   └── 2.3.IGV 
+	├── 3.MethylationStat 
+	│   ├── 3.1.MLevel_QC 
+	│   ├── 3.2.MLevel_stat 
+	│   ├── 3.3.MLevel_dist 
+	│   │   ├── 3.3.1.Genome 
+	│   │   ├── 3.3.2.Chromosome 
+	│   │   └── 3.3.3.GenomicFeatures 
+	│   └── 3.4.WebLogo 
+	├── 4.Methylomes 
+	│   ├── 4.1.Correlation 
+	│   ├── 4.2.DMR 
+	│   │   ├── 4.2.1.DMRStat 
+	│   │   ├── 4.2.2.DMR_annot 
+	│   │   ├── 4.2.3.DMR_volcano 
+	│   │   └── 4.2.4.DMR_length 
+	│   └── 4.3.DMP 
+	│       ├── C 
+	│       ├── CG 
+	│       ├── CHG 
+	│       ├── CHH 
+	│       └── Cluster 
+	│           ├── C
+	│           ├── CG
+	│           ├── CHG
+	│           └── CHH
+	├── 5.GO_enrichment 
+	│   ├── 5.1.DMR_related_gene 
+	│   │   ├── ALL 
+	│   │   ├── Hyper 
+	│   │   └── Hypo 
+	│   └── 5.2.DMP_related_gene 
+	│       ├── ALL 
+	│       ├── Hyper 
+	│       └── Hypo 
+	└── 6.KEGG_enrichment 
+	    ├── 6.1.DMR_related_gene 
+	    │   ├── ALL 
+	    │   │   └── KEGG_web
+	    │   ├── Hyper 
+	    │   │   └── KEGG_web
+	    │   └── Hypo 
+	    │       └── KEGG_web
+	    └── 6.2.DMP_related_gene 
+	        ├── ALL 
+	        │   └── KEGG_web
+	        ├── Hyper 
+	        │   └── KEGG_web
+	        └── Hypo 
+	            └── KEGG_web	
