@@ -1,3 +1,9 @@
+![logo](https://github.com/zanmer/NGS-data/blob/master/novogene-logo.png)
+
+# NGS datasets
+
+## Introduction
+
 Product | Release tree | Result tree | Release Demo link
 ---|:--:|:--:|:--:|:--
 HU01_human_WGS | [Release.tree.txt](https://github.com/novogene-europe/ngs_demo_releases/blob/master/HU01_human_WGS/Release.tree.txt) | [Result.tree.txt](https://github.com/novogene-europe/ngs_demo_releases/blob/master/HU01_human_WGS/Result.tree.txt) | [HU01_human_WGS_Release_demo.zip](https://hweu-ld.oss-eu-west-1.aliyuncs.com/demo/20190829165531/HU01_human_WGS_Release_demo.zip)
