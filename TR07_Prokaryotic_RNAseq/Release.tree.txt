@@ -1,0 +1,23 @@
+TR07_RNA-seq_Prokaryotic_Release_demo
+├── IGV_data
+│   ├── Bam
+│   ├── NC_016831.dna.fa.gz -> /TJPROJ5/HWEU/PUBLIC/database/RNA_database/reference_data/Microorganism/pKte2zar/NC_016831.dna.fa.gz
+│   └── NC_016831.exon.gtf.gz -> /TJPROJ5/HWEU/PUBLIC/database/RNA_database/reference_data/Microorganism/pKte2zar/NC_016831.exon.gtf.gz
+├── MD5.txt
+├── README.pdf
+├── RNA-seq_Prokaryotic_demo_report.tar.gz
+├── Rawdata
+│   ├── C79_13_1
+│   ├── C79_13_2
+│   ├── C79_13_3
+│   ├── DSPI19_1
+│   ├── DSPI19_2
+│   ├── DSPI19_3
+│   ├── Dcas_1
+│   ├── Dcas_2
+│   ├── S06004_1
+│   └── S06004_2
+├── Result.tar.gz
+└── checkSize.xls
+
+13 directories, 7 files

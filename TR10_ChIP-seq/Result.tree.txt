@@ -1,0 +1,23 @@
+XXXXSCXXXXXXXX-XXX-F00X_Result/
+    ├── Compare
+    │   ├── README_Compare.txt
+    │   └── REP_1_vs_REP_2
+    ├── Mapping
+    │   ├── ChIP_1
+    │   ├── ChIP_2
+    │   ├── Input
+    │   └── README_Mapping.txt
+    ├── Motif
+    │   ├── REP_1
+    │   └── REP_2
+    ├── Peak
+    │   ├── README_Peak.txt
+    │   ├── REP_1
+    │   └── REP_2
+    └── SCC
+        ├── ChIP_1
+        ├── ChIP_2
+        ├── Input
+        ├── README_SCC.txt
+        └── SCC_experiment
+    ├── DirectoryTree.html    

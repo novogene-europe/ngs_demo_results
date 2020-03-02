@@ -1,0 +1,48 @@
+Result
+├── 1.RawData
+│   ├── 1.RawData.README.txt
+│   ├── P0_Contrexample.fq.txt
+│   └── P20_Fulpexample.fq.txt
+├── 2.QC
+│   ├── 2.1.ErrorRate
+│   ├── 2.2.GC
+│   ├── 2.3.ReadsClassification
+│   └── 2.4.CleanData_QCsummary
+├── 3.Assembly
+│   ├── 3.1.AssembledTranscriptome
+│   └── 3.2.AssemblyINFO
+├── 4.TaxAnnotation
+│   ├── 4.TaxAnnotation.README.txt
+│   ├── Cluster_Tree
+│   ├── MAT
+│   ├── NR_Annot
+│   ├── figure
+│   ├── heatmap
+│   └── top
+├── 5.GeneExprQuantification
+│   ├── 5.1.GeneExprQuantification
+│   ├── 5.2.GeneExpContrast
+│   └── mapping_rate.txt
+├── 6.DiffExprAnalysis
+│   ├── 6.1.DiffExprAnalysis
+│   ├── 6.2.DEGsFilter
+│   └── 6.3.DEGcluster
+├── 7.DEG_GOenrichment
+│   ├── 7.1.GOenrichment
+│   └── 7.2.DAG
+├── 8.DEG_KEGGenrichment
+│   ├── 8.DEG.KEGGenrichment.README.txt
+│   ├── P0_ContrvsP20_Fulp.DEG_KEGG_pathway_enrichment_result.xls
+│   ├── P0_ContrvsP20_Fulp.DEG_enriched_KEGG_pathway_scatterplot.pdf
+│   ├── P0_ContrvsP20_Fulp.DEG_enriched_KEGG_pathway_scatterplot.png
+│   ├── P0_ContrvsP20_Fulp.DEG_enriched_KEGG_pathway_top20.xls
+│   └── P0_ContrvsP20_Fulp_kegg_web
+└── 9.FunctionAnnotation
+    ├── 9.FunctionAnnotation.README.txt
+    ├── CAZy
+    ├── Cluster_tree
+    ├── GO
+    ├── KEGG
+    └── eggNOG
+
+34 directories, 11 files

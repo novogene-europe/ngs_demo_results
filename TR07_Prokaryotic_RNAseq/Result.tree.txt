@@ -1,0 +1,58 @@
+Result
+├── 1.QC
+│   ├── QC.README.pdf
+│   └── QC_summary.xls
+├── 2.Mapping
+│   ├── Mapping.README.pdf
+│   ├── MappingRegion
+│   └── mapping_summary.xls
+├── 3.NovelGene
+│   ├── NovelGene.prokaryote.README.pdf
+│   ├── novel_genes.annotation.xls
+│   ├── novel_genes.fasta
+│   └── novelgene.xls
+├── 4.Quantification
+│   ├── Correlation
+│   ├── Distribution
+│   ├── Expression
+│   ├── Quantification.README.pdf
+│   └── coExpression_venn
+├── 5.DiffExprAnalysis
+│   ├── Cluster
+│   ├── DEGlist
+│   ├── DiffExprAnalysis.README.pdf
+│   ├── Venn
+│   └── Volcano
+├── 6.Enrichment
+│   ├── Enrichment.README.pdf
+│   ├── GO
+│   └── KEGG
+├── 7.Mutation
+│   ├── InDel
+│   ├── Mutation.README.pdf
+│   └── SNP
+├── 8.geneStruct
+│   ├── GeneStruct.README.pdf
+│   ├── Promoter_prediction.txt
+│   ├── TSS_TTS.xls
+│   └── operons.txt
+├── 9.UTR
+│   ├── SD.xls
+│   ├── UTR.README.pdf
+│   ├── UTR3.length.xls
+│   ├── UTR3.seq.fasta
+│   ├── UTR5.length.xls
+│   ├── UTR5.seq.fasta
+│   ├── UTR_length_distribution.pdf
+│   ├── UTR_length_distribution.png
+│   └── terminator.txt
+├── 10.AntiTrans
+│   ├── AntiTrans.README.pdf
+│   └── Antisense.xls
+└── 11.sRNA
+    ├── Secondary_Structure
+    ├── sRNA.README.pdf
+    ├── sRNA_Inta
+    └── sRNA_Length
+
+27 directories, 28 files

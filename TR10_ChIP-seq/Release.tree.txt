@@ -1,0 +1,11 @@
+TR10_ChIP-seq
+└── TR10_ChIP-seq_Release_demo
+    ├── BAM
+    │   └── ChIP_1.bam
+    ├── bigWig
+    │   └── ChIP_1.bw
+    ├── RawFq
+    │   ├── ChIP_1_1.fq.gz
+    │   └── ChIP_1_2.fq.gz
+    ├── XXXXSCXXXXXXXX-XXX-F00X_Report
+    └── XXXXSCXXXXXXXX-XXX-F00X_Result

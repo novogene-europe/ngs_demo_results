@@ -1,0 +1,123 @@
+XXXXSCXXXXXXXX-XXX-F00X_Homo_sapiens_result/
+├── 0.SuppFiles
+    ├── 0.SuppFiles.Readme.txt
+    ├── gene.description.xls
+    ├── gene.goannot.xls
+    ├── hairpin.fa
+    ├── known_hairpin_mature.xls
+    ├── mature.fa
+    ├── meanscount.txt
+    ├── meanstpm.txt
+    ├── novel_hairpin_mature.xls
+    ├── targets.pairs.allcom
+    └── targets.pairs.alltab
+├── 1.Example_data
+    ├── 1.1.RawData
+    └── 1.2.CleanData
+├── 2.QualityControl
+    ├── 2.1.RawData_ErrorRate
+    ├── 2.2.RawData_Stat
+    ├── 2.3.ReadsClassification
+    ├── 2.4.Length_Filter
+    ├── 2.5.Common_Specific_sRNA
+    └── 2.QC.Readme.txt
+├── 3.Mapping_Stat
+    ├── 3.Mapping_Stat.Readme.txt
+    ├── F28.circos.png
+    ├── F28.circos.svg
+    ├── F28.mapping.stat
+    └── reference.mapping.stat
+├── 4.Known_miRNA
+    ├── 4.Known_miRNA.Readme.txt
+    ├── F28.firstbase
+    ├── F28.firstbase.png
+    ├── F28.position
+    ├── F28.position.png
+    ├── hairpin.fa
+    ├── hairpin_mature.fa
+    ├── hairpin_mature.pairs
+    ├── known_miRNA.map.fas
+    ├── known_miRNA.map.stat
+    ├── mature.fa
+    ├── mature.readcount
+    ├── miRBase.mrd
+    └── Structure_plot_example
+├── 5.ncRNA
+    ├── 5.ncRNA.Readme.txt
+    ├── ncRNA.map.fas
+    ├── rc.stat
+    ├── rRNA.map.fas
+    ├── snoRNA.map.fas
+    ├── snRNA.map.fas
+    ├── tRNA.map.fas
+    └── uc.stat
+├── 6.Repeat
+    ├── rc.stat_F28_bar.pdf
+    ├── rc.stat_F28_bar.png
+    ├── repeat.map.fas
+    ├── repeat.rc.stat
+    ├── repeat.uc.stat
+    ├── uc.stat_F28_bar.pdf
+    └── uc.stat_F28_bar.png
+├── 7.gene
+    ├── 7.gene.Readme.txt
+    ├── exon.map.fas
+    ├── gene.map.fas
+    ├── intron.map.fas
+    ├── rc.stat
+    └── uc.stat
+├── 8.Novel_miRNA
+    ├── 8.Novel_miRNA.Readme.txt
+    ├── F28.firstbase
+    ├── F28.firstbase.png
+    ├── F28.position
+    ├── F28.position.png
+    ├── hairpin.fa
+    ├── hairpin_mature.fa
+    ├── hairpin_mature.pairs
+    ├── hairpin.pos
+    ├── hairpin.str
+    ├── mature.fa
+    ├── mature.readcount
+    ├── miRBase.mrd
+    ├── novel_miRNA.map.fas
+    ├── novel_miRNA.map.stat
+    ├── star.fa
+    ├── star.readcount
+    └── Structure_plot_example
+├── 9.Category
+    ├── 9.Category.Readme.txt
+    ├── category_rc_full.txt
+    ├── category_uc_full.txt
+    ├── F28.category_rc_pie.pdf
+    ├── F28.category_rc_pie.png
+    ├── F28.category_uc_pie.pdf
+    └── F28.category_uc_pie.png
+├── 10.miRNA_editing
+    ├── 10.miRNA_editing.Readme.txt
+    └── F28_editing_stats.txt
+├── 11.miRNA_family
+    ├── 11.miRNA_family.Readme.txt
+    ├── hsa_miRNA_family.detail.txt
+    ├── hsa_miRNA_family.mir_num.txt
+    └── hsa_miRNA_family.mir_sign.txt
+├── 12.DiffExprAnalysis
+    ├── 12.1.miRNAExp
+    ├── 12.2.miRNAExpdensity
+    ├── 12.3.CorAnalysis
+    ├── 12.4.DiffExprAnalysis
+    ├── 12.5.DEsFilter
+    └── 12.6.DEcluster
+├── 13.miRNA_target
+    ├── 13.miRNA_target.Readme.txt
+    ├── hsa_mature.miranda_targets_out.fmt
+    ├── hsa_mature.miranda_targets.pairs
+    └── hsa_mature.miranda_targets.pairs.annotate
+├── 14.Enrichment
+    ├── 14.Enrichment.Readme.txt
+    └── smlO25svssmlN69s
+├── 15.Venn
+    └── totsmlY_totsmlO
+└── DirectoryTree.html
+
+33 directories, 87 files

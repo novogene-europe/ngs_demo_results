@@ -1,0 +1,10 @@
+TR09_sRNA-seq/
+└── TR09_sRNA-seq_Release_demo
+    ├── clean_data
+    │   └── N69sen_clean.fa.gz
+    ├── md5sum.txt
+    ├── raw_data
+    │   └── N69sen_raw.fq.gz
+    ├── XXXXSCXXXXXXXX-XXX-F00X_Homo_sapiens_report
+    └── XXXXSCXXXXXXXX-XXX-F00X_Homo_sapiens_result
+    └── DirectoryTree.html

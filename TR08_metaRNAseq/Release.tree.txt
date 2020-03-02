@@ -1,0 +1,12 @@
+TR08_RNA-seq_meta_Release_demo
+├── MD5.txt
+├── README.txt
+├── RNA-seq_meta_demo_result.tar.gz
+├── checkSize.xls
+└── rawdata
+    ├── P0_Contr_1.fq.gz
+    ├── P0_Contr_2.fq.gz
+    ├── P20_Fulp_1.fq.gz
+    └── P20_Fulp_2.fq.gz
+
+1 directory, 8 files
